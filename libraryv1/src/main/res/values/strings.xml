@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LibraryV1</string>
+    <string name="CONNECTION_ERROR_MSG">CONNECTION ERROR</string>
+    <string name="loading">loading</string>
+</resources>
